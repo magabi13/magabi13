@@ -1,4 +1,4 @@
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3bcddfe3-1d6e-4991-acde-25f77ce82b37" /><h1 align="left">🌸 Maria Gabriella Guimarães</h1>
+<h1 align="left">🌸 Maria Gabriella Guimarães</h1>
 
 ###
 
@@ -49,11 +49,7 @@
 </div>
 
 ###
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magabi13/Magabi13/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Magabi13/Magabi13/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Magabi13/Magabi13/output/pacman-contribution-graph.svg">
-  </picture>
+ 
 
 <p align="center">
   🌸 <i>Always learning and building as I grow in tech</i> 🌸
