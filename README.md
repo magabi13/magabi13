@@ -49,11 +49,17 @@
 </div>
 
 ###
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magabi13&show_icons=true&theme=sakura&hide_border=true&icon_color=ff79c6&text_color=ff79c6&title_color=ff79c6&bg_color=0d1117" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magabi13/magabi13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magabi13/magabi13/output/pacman-contribution-graph.svg">
- 
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magabi13&layout=compact&theme=sakura&hide_border=true&icon_color=ff79c6&text_color=ff79c6&title_color=ff79c6&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  🌸 <i>Always learning and building as I grow in tech</i> 🌸
+</p>
+
 
 ###
