@@ -43,6 +43,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=magabi13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=magabi13&theme=sakura&show_icons=true" alt="GitHub Stats" />
 </p>
@@ -54,7 +60,6 @@
 <p align="center">
   🌸 <i>Always learning and building as I grow in tech</i> 🌸
 </p>
-
 
 
 ###
